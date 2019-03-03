@@ -1,13 +1,13 @@
 # Site settings
-title: 陈松的技术博客
-SEOTitle: 陈松的技术博客 | CS Blog
+title: 伍成龙的技术博客
+SEOTitle: 伍成龙的技术博客 | WCL Blog
 header-img: img/post-bg-desk.jpg
-email: chensongbj25@gmail.com
+email: hbtmwu555@163.com
 description: "Every failure is leading towards success."
-keyword: "陈松的技术博客, 陈松C/C++ blog, 游戏服务器, 高并发, 高可用的服务器"
-url: "https://chensongpoixs.github.io"          # your host, for absolute URL
+keyword: "伍成龙的技术博客, java, 后端"
+url: "https://caicaiala.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/chensongpoixs/chensongpoixs.github.io.git" # you code repository
+github_repo: "https://github.com/caicaiala/caicaiala.github.io.git" # you code repository
 
 plugins:
   - jekyll-sitemap
@@ -22,14 +22,14 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: true
-# weibo_username:     chensongpoixs
-#zhihu_username:     chensongpoixs
-csdn_username:		Poisx
-github_username:    chensongpoixs
-#facebook_username:  chensongpoixs
-jianshu_username:   c5bcb0434259
-#twitter_username:   chensongpoixs
-email_account:      chensongbj25@gmail.com
+# weibo_username:     caiala
+#zhihu_username:     caiala
+#csdn_username:		caiala
+github_username:    caicaiala
+#facebook_username:  caiala
+#jianshu_username:   caiala
+#twitter_username:   caiala
+email_account:      hbtmwu555@163.com
 
 
 
@@ -76,27 +76,27 @@ kramdown:
 #      line_numbers: true
 #      start_line: 1
       
-duoshuo_share: true  
+#duoshuo_share: true  
 
 # 评论系统
 # Disqus（https://disqus.com/）
-disqus_username: chensongpoixs-github-io-1
+#disqus_username: chensongpoixs-github-io-1
 
 
 # about background music
-about:
-  enable: true    #是否开启muisc
-  music_url: https://github.com/chensongpoixs/chensongpoixs.github.io/blob/master/music/about.mp3
+#about:
+  #enable: true    #是否开启muisc
+  #music_url: https://github.com/chensongpoixs/chensongpoixs.github.io/blob/master/music/about.mp3
 
 # Gitalk
-gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID: 68eab7a4e477a095f0fe                            #生成的clientID
-  clientSecret: 2d99a84787d60946674b419700c43dda76e6d121    #生成的clientSecret
-  repo: chensongpoixs.github.io    #仓库名称
-  owner: chensongpoixs    #github用户名
-  admin: chensongpoixs
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+#gitalk:
+#  enable: true    #是否开启Gitalk评论
+#  clientID: 68eab7a4e477a095f0fe                            #生成的clientID
+#  clientSecret: 2d99a84787d60946674b419700c43dda76e6d121    #生成的clientSecret
+#  repo: caiala.github.io    #仓库名称
+#  owner: caiala   #github用户名
+#  admin: caiala
+#  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 #
 # 统计
 
@@ -104,12 +104,12 @@ gitalk:
 #Baidu Analytics
 #ba_track_id: 11ea1e5954a4193d6dc9aa404767aa89
 
-#用户名 -- 15850774503-> two
-ba_track_id: e4d3c801e2dcc7346b7cc4e86ad11344
+#用户名
+ba_track_id: 1cf76f9ec7cf2a385097c5de3278f0e0
 
 
 # Google Analytics
-ga_track_id: 'UA-131362317-1'            # Format: UA-xxxxxx-xx
+#ga_track_id: 'UA-131362317-1'            # Format: UA-xxxxxx-xx
 ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
@@ -130,14 +130,8 @@ service-worker: true
 
 # Friends
 friends: [
-    {
-        title: "CSDN",
-        href: "https://blog.csdn.net/Poisx"
-    },{
-        title: "简·书",
-        href: "http://www.jianshu.com/u/c5bcb0434259"
-    },{ 
+	{ 
         title: "GitHub",
-        href: "https://github.com/chensongpoixs"
+        href: "https://github.com/caicaiala"
     }
 ]
